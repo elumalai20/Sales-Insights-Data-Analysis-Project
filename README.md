@@ -48,10 +48,8 @@ The project includes several visualizations such as:
 ## How to Run the Project
 
 1. Clone the repository
-
-git clone https://github.com/yourusername/projectname.git
-
-2. Install required libraries
+2. 
+3. Install required libraries
 
 pip install pandas numpy matplotlib seaborn
 
